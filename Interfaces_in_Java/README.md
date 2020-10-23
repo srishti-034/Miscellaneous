@@ -1,24 +1,14 @@
 # Introduction
-Interface is a shared boundary across which two or more separate components of a computer system exchange information. This exchange can take place between softwares,
-hardwares, peripheral devices, humans or a combination of these.  
-In Java, interface refers to an abstract type that is used to specify a behaviour that classes must implement. It serves as a blueprint of a class having static constants
-and abstract methods. Didn't get it? Let's make things simpler for you with the help of an example:  
+In Java, interface refers to an abstract type that is used to specify a behaviour that classes must implement. It serves as a blueprint of a class having static constants and abstract methods. Didn't get it? Let's make things simpler for you with the help of an example:  
 *Do you remember the corrugated cardboard sheet which is used for preparing cardboard boxes?*  
-![Corrugated Cardboard Sheet](images/corrugated-cardboard-sheet.jpg)  
-*The cardboard sheet manufacturing company prepares sheets of different densities and supplies them in some standard sizes to other companies. The boxes of pizza you 
-received, box of shoes you bought, the packaging of parcel handed over to you by the delivery guy and the carton of your new AC or fridge, all of them are different 
-yet they are made of more or less material of similar properties. All these companies have made cuts, folds, prints etc. on that cardboard sheet according their 
-requirements so as to obtain cardboard boxes of desired shapes and sizes. Consider interfaces as those cardboard sheets already having some properties(levels of
-corrugation, density, thickness etc.), which are used by the companies to make packaging boxes of different types. But packaging boxes still possess the original
-characteristics of that cardboard sheet and are also having their own characteristics like prints, shape, size, brand logo etc.*  
-![Cardboard boxes types](images/cardboard-box-types.jpg)  
-I hope things are quite clear now, Let's move on to the interesting part of this microbyte- Activities. But before that, please make sure you fulfil all the pre-requisites mentioned.
+![Corrugated Cardboard Sheet](images/corrugated-cardboard-sheet.jpg)|![Cardboard boxes types](images/cardboard-box-types.jpg) 
+*The cardboard sheet manufacturing company prepares sheets of different densities and supplies them in some standard sizes to other companies. The boxes of pizza you received, box of shoes you bought, the packaging of parcel handed over to you by the delivery guy and the carton of your new AC or fridge, all of them are different yet they are made of more or less material of similar properties. All these companies have made cuts, folds, prints etc. on that cardboard sheet according their requirements so as to obtain cardboard boxes of desired shapes and sizes. Consider interfaces as those cardboard sheets already having some properties(levels of
+corrugation, density, thickness etc.), which are used by the companies to make packaging boxes of different types. But packaging boxes still possess the original characteristics of that cardboard sheet and are also having their own characteristics like prints, shape, size, brand logo etc.*    
 
 # Pre-requisites
  * JDK 1.6 or above must be installed
  * Any Java IDE(NetBeans, IntelliJ, Eclipse etc.) must be installed, I prefer Eclipse so if you want you can download it from here:  
    [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
- * Writing and compiling java code in Eclipse (optional)
  * It would be better, if you have a little bit knowledge of these concepts in Java (You can refer the resources provided in case you don't know about these) -
    * [Classes and Objects](https://www.w3schools.com/java/java_classes.asp)
    * [Inheritance](https://www.guru99.com/java-class-inheritance.html)
@@ -133,6 +123,5 @@ Happy Coding!!
 
 # References
 * Abstract Methods: [https://beginnersbook.com/2014/01/abstract-method-with-examples-in-java/](https://beginnersbook.com/2014/01/abstract-method-with-examples-in-java/)
-* Definition: [https://en.wikipedia.org/wiki/Interface_(Java)](https://en.wikipedia.org/wiki/Interface_(Java))
 * [https://www.javatpoint.com/interface-in-java#interfaceex](https://www.javatpoint.com/interface-in-java#interfaceex)
 * [https://www.java67.com/2014/02/what-is-actual-use-of-interface-in-java.html#:~:text=Interface%20is%20great%20to%20declare,as%20to%20to%20process%20events.](https://www.java67.com/2014/02/what-is-actual-use-of-interface-in-java.html#:~:text=Interface%20is%20great%20to%20declare,as%20to%20to%20process%20events.)
