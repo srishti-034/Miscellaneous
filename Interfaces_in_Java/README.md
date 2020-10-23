@@ -1,7 +1,7 @@
 # Introduction
 In Java, interface refers to an abstract type that is used to specify a behaviour that classes must implement. It serves as a blueprint of a class having static constants and abstract methods. Didn't get it? Let's make things simpler for you with the help of an example:  
 *Do you remember the corrugated cardboard sheet which is used for preparing cardboard boxes?*  
-![Corrugated Cardboard Sheet](images/corrugated-cardboard-sheet.jpg)|![Cardboard boxes types](images/cardboard-box-types.jpg) 
+![Corrugated Cardboard Sheet](images/corrugated-cardboard-sheet.jpg)|![Cardboard boxes types](images/cardboard-box-types.jpg)  
 *The cardboard sheet manufacturing company prepares sheets of different densities and supplies them in some standard sizes to other companies. The boxes of pizza you received, box of shoes you bought, the packaging of parcel handed over to you by the delivery guy and the carton of your new AC or fridge, all of them are different yet they are made of more or less material of similar properties. All these companies have made cuts, folds, prints etc. on that cardboard sheet according their requirements so as to obtain cardboard boxes of desired shapes and sizes. Consider interfaces as those cardboard sheets already having some properties(levels of
 corrugation, density, thickness etc.), which are used by the companies to make packaging boxes of different types. But packaging boxes still possess the original characteristics of that cardboard sheet and are also having their own characteristics like prints, shape, size, brand logo etc.*    
 
